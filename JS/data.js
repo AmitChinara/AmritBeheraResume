@@ -7,6 +7,18 @@ const amritBeheraCV = {
     },
     workExperience: [
         {
+            organization: "Epiq Systems India Pvt. Ltd.",
+            location: "Hyderabad, Telangana",
+            duration: "May 2025 - Present",
+            responsibilities: [
+                "Gained experience in Contract Management and Contract Abstraction.",
+                "Reviewed, analysed, and summarized various types of legal documents, including contracts, agreements, and court documents.",
+                "Extracted and captured key information and clauses from contracts in accordance with client instructions and project guidelines.",
+                "Conducted legal research and support on regulatory or compliance matters as required.",
+                "Collaborated with cross-functional teams to meet client deadlines and quality standards.",
+                "Maintained confidentiality of all information and documentation handled."
+            ]
+        },{
             organization: "QuisLex Legal Services Pvt. Ltd.",
             location: "Hyderabad, Telangana",
             duration: "June 2023 – February 2025",
@@ -58,20 +70,6 @@ const amritBeheraCV = {
             ]
         },
         {
-            organization: "Law Padho",
-            duration: "July – August 2021",
-            tasks: [
-                "Worked as a content writer"
-            ]
-        },
-        {
-            organization: "Prolawfic",
-            duration: "July – August 2021",
-            tasks: [
-                "Worked as a content writer"
-            ]
-        },
-        {
             organization: "Odisha Human Rights Commission",
             duration: "April – May 2021",
             tasks: [
@@ -112,14 +110,6 @@ const amritBeheraCV = {
                 "Attended hearings at Cuttack High Court and Bhubaneswar District Court",
                 "Researched legal terms and landmark Odisha cases"
             ]
-        },
-        {
-            organization: "KISS - Kalinga Institute of Social Sciences",
-            duration: "November 2018",
-            tasks: [
-                "Volunteered for socio-economic upliftment of underprivileged children",
-                "Participated in Project Uday – raised awareness about tribal rights"
-            ]
         }
     ],
     education: [
@@ -141,11 +131,6 @@ const amritBeheraCV = {
             course: "Secondary (X)",
             result: "7.4 CGPA"
         }
-    ],
-    areasOfInterest: [
-        "General Corporate Law",
-        "Document Review Process",
-        "Document Processing"
     ],
     publications: [
         {

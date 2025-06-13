@@ -9,7 +9,7 @@ body {
     background: linear-gradient(120deg, #f0f4ff 0%, #e0e7ff 100%);
     color: #232946;
     min-height: 100vh;
-    padding: 2rem;
+    padding: 2rem 0.5rem;
 }
 a {
     color: #2563eb;
@@ -19,19 +19,6 @@ a {
 a:hover {
     color: #3730a3;
     text-decoration: underline;
-}
-
-/* Resume Container */
-.resume {
-    max-width: 900px;
-    margin: 2rem auto;
-    background: #fff;
-    border-radius: 18px;
-    box-shadow: 0 8px 32px rgba(60, 72, 88, 0.13), 0 1.5px 6px rgba(60, 72, 88, 0.07);
-    padding: 2.5rem 2.5rem 2rem 2.5rem;
-    border: 1.5px solid #e0e7ff;
-    position: relative;
-    overflow: hidden;
 }
 
 /* Header */
@@ -184,13 +171,13 @@ section#awards h2::before { content: "🏆"; }
 
 /* Responsive */
 @media (max-width: 800px) {
-    .resume {
-        padding: 1.2rem 0.7rem;
+    body {
+        padding: 1.2rem 0.2rem;
     }
 }
 @media (max-width: 600px) {
-    .resume {
-        padding: 0.5rem 0.2rem;
+    body {
+        padding: 0.5rem 0.1rem;
     }
     .entry {
         padding: 0.8rem 0.5rem 0.7rem 0.7rem;

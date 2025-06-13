@@ -36,11 +36,6 @@ renderSection("education", "Education", amritBeheraCV.education, (item) => `
   </div>
 `);
 
-// Areas of Interest
-renderSection("areasOfInterest", "Areas of Interest", amritBeheraCV.areasOfInterest, (interest) => `
-  <div class="entry">${interest}</div>
-`);
-
 // Publications
 renderSection("publications", "Publications", amritBeheraCV.publications, (pub) => `
   <div class="entry">
