@@ -22,26 +22,103 @@ const amritBeheraCV = {
     internships: [
         {
             organization: "Prime Legal",
-            duration: "Jan – Mar 2023",
+            duration: "January – March 2023",
             tasks: [
-                "Drafted written statements, SOPs, legal notices, and plaints",
-                "Client counselling"
+                "Drafted written statements",
+                "Drafted SOPs",
+                "Client counselling",
+                "Drafted legal notices",
+                "Drafted plaints"
             ]
         },
         {
             organization: "Lawssistance",
             duration: "May 2022",
             tasks: [
-                "Drafted legal notices, agreements, and SOPs",
-                "Conducted legal research and prepared case briefs"
+                "Drafted legal notices",
+                "Drafted service agreements",
+                "Drafted ESOP agreements",
+                "Prepared legal opinions",
+                "Drafted SOPs",
+                "Conducted legal research and wrote notes",
+                "Client briefing and case preparation"
             ]
         },
         {
             organization: "A&A Lawcorp LLP",
-            duration: "Dec 2021",
+            duration: "December 2021",
             tasks: [
-                "Drafted legal notices, opinions, complaints, and case documentation",
-                "Conducted legal research and attended hearings"
+                "Drafted legal notices and legal opinions",
+                "Drafted written statements",
+                "Drafted criminal complaint under section 156(3) of CrPC",
+                "Drafted probate and mutation documents",
+                "Researched laws (Section 498A IPC, 125 CrPC, Section 138 NI Act)",
+                "Court assistance and client briefing",
+                "Filed RTI applications"
+            ]
+        },
+        {
+            organization: "Law Padho",
+            duration: "July – August 2021",
+            tasks: [
+                "Worked as a content writer"
+            ]
+        },
+        {
+            organization: "Prolawfic",
+            duration: "July – August 2021",
+            tasks: [
+                "Worked as a content writer"
+            ]
+        },
+        {
+            organization: "Odisha Human Rights Commission",
+            duration: "April – May 2021",
+            tasks: [
+                "Attended human rights court proceedings",
+                "One-on-one discussions with the justice",
+                "Researched human rights laws"
+            ]
+        },
+        {
+            organization: "State Election Commission, Odisha",
+            duration: "December 2020",
+            tasks: [
+                "Studied election procedures",
+                "Researched Gram Panchayat elections in Odisha",
+                "Observed EVM functioning and voting process"
+            ]
+        },
+        {
+            organization: "Chambers of Advocate Mr. Kishore Chandra Kar",
+            duration: "August 2020",
+            tasks: [
+                "Attended virtual hearings (Cuttack High Court, District Court Bhubaneswar)",
+                "Prepared case analyses",
+                "Researched Indian Constitution, RTI, and Civil Procedure Code"
+            ]
+        },
+        {
+            organization: "Chambers of Advocate Mr. Kishore Chandra Kar",
+            duration: "November – December 2019",
+            tasks: [
+                "Attended court hearings at Cuttack High Court and Bhubaneswar District Court"
+            ]
+        },
+        {
+            organization: "Chambers of Advocate Mr. Sourya Sundar Das",
+            duration: "May – June 2019",
+            tasks: [
+                "Attended hearings at Cuttack High Court and Bhubaneswar District Court",
+                "Researched legal terms and landmark Odisha cases"
+            ]
+        },
+        {
+            organization: "KISS - Kalinga Institute of Social Sciences",
+            duration: "November 2018",
+            tasks: [
+                "Volunteered for socio-economic upliftment of underprivileged children",
+                "Participated in Project Uday – raised awareness about tribal rights"
             ]
         }
     ],
