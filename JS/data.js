@@ -17,18 +17,6 @@ const amritBeheraCV = {
                 "Extracted contractual obligations and metadata terms",
                 "Conducted quality checks and trained new members"
             ]
-        },
-        {
-            organization: "QuisLex Legal Services Pvt. Ltd.",
-            location: "Hyderabad, Telangana",
-            duration: "June 2023 – February 2025",
-            responsibilities: [
-                "Experience in e-discovery including first-level and second-level review and redaction of PHI/PII",
-                "Reviewed legal documents for privilege and confidentiality",
-                "Examined legal documents including spreadsheets, contracts, emails, and audio files",
-                "Extracted contractual obligations and metadata terms",
-                "Conducted quality checks and trained new members"
-            ]
         }
     ],
     internships: [
